@@ -4,6 +4,10 @@ Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/).
 
 ## [Unveröffentlicht] – 2026-11-14
 
+### Geändert
+
+- `default.json`: `description` auf Englisch (Code ist durchgehend englisch).
+
 ### Hinzugefügt
 
 - `default.json`: gemeinsame Renovate-Grundeinstellung. Repositories binden sie mit
